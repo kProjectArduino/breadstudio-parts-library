@@ -79,5 +79,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "NFC\uBAA8\uB4C8 PN5180",
+    "pinCount": 13,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN5180.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
