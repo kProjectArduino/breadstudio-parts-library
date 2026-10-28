@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "ESP32 LCD SD",
-    "pinCount": 0,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 LCD SD.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13803989532",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "ESP32 S3 CAM",
     "pinCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
@@ -445,6 +436,15 @@
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 C3 SUPERMINI.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13034194700",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "ESP32 LCD SD",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 LCD SD.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13803989532",
     "tags": [
       "UserUpload"
     ]
