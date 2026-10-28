@@ -25,5 +25,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "ESP32 C3 SUPERMINI PINOUT(\uCC38\uC870\uC694)",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 C3 SUPERMINI PINOUT(\uCC38\uC870\uC694).zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
