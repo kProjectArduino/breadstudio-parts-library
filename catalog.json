@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
-    "pinCount": 16,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224667484",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uBBF8\uB2C8 \uC790\uB3D9\uCC28 \uC81C\uC5B4 \uBCF4\uB4DC ESP32 C3 SUPERMINI 4 MOTOR",
     "pinCount": 26,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBBF8\uB2C8 \uC790\uB3D9\uCC28 \uC81C\uC5B4 \uBCF4\uB4DC ESP32 C3 SUPERMINI 4 MOTOR.zip",
@@ -445,6 +436,15 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130 N20.zip",
     "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
+    "pinCount": 16,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224667484",
     "tags": [
       "UserUpload"
     ]
