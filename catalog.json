@@ -142,5 +142,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uAE30\uC555\uC13C\uC11C BMP280",
+    "pinCount": 6,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAE30\uC555\uC13C\uC11C BMP280.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824640913",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
