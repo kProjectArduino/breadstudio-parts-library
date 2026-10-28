@@ -1,14 +1,5 @@
 [
   {
-    "name": "MCU RP2040 ZERO",
-    "pinCount": 23,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU RP2040 ZERO.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824627135",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "MCU STM32F103C8T6",
     "pinCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU STM32F103C8T6.zip",
@@ -445,6 +436,15 @@
     "pinCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13756998242",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "MCU RP2040 ZERO",
+    "pinCount": 23,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU RP2040 ZERO.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824627135",
     "tags": [
       "UserUpload"
     ]
