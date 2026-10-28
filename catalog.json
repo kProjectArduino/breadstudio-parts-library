@@ -106,5 +106,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
