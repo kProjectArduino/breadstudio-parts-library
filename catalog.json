@@ -1,14 +1,5 @@
 [
   {
-    "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA)",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA).zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V).zip",
@@ -445,6 +436,15 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAC00\uC2A4\uC13C\uC11C MQ-2.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985108797",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA)",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA).zip",
+    "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
