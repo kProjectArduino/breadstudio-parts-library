@@ -421,5 +421,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uCD08\uC74C\uD30C\uC13C\uC11C HC-SR04",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCD08\uC74C\uD30C\uC13C\uC11C HC-SR04.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12619244227",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
