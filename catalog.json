@@ -1,14 +1,5 @@
 [
   {
-    "name": "ESP32 38\uD540",
-    "pinCount": 38,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 38\uD540.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398748583",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "ESP32 C3 SUPERMINI",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 C3 SUPERMINI.zip",
@@ -22,6 +13,15 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/220V \uC804\uAD6C electric light.zip",
     "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "ESP32 38\uD540",
+    "pinCount": 38,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 38\uD540.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398748583",
     "tags": [
       "UserUpload"
     ]
