@@ -1,14 +1,5 @@
 [
   {
-    "name": "ESP32 S3 CAM",
-    "pinCount": 40,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13756998242",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "MCU RP2040 ZERO",
     "pinCount": 23,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU RP2040 ZERO.zip",
@@ -445,6 +436,15 @@
     "pinCount": 0,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 LCD SD.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13803989532",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "ESP32 S3 CAM",
+    "pinCount": 40,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13756998242",
     "tags": [
       "UserUpload"
     ]
