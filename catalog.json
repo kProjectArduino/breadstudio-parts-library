@@ -61,5 +61,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "MCU STM32F103C8T6",
+    "pinCount": 40,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU STM32F103C8T6.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824628984",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
