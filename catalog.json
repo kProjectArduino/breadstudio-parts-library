@@ -358,5 +358,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
+    "pinCount": 8,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC790\uC774\uB85C \uC13C\uC11C MPU6050.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985087647",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
