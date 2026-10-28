@@ -349,5 +349,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523816019",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
