@@ -16,5 +16,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "ESP32 C3 SUPERMINI",
+    "pinCount": 16,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 C3 SUPERMINI.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
