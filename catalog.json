@@ -88,5 +88,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "NFC\uBAA8\uB4C8 PN532",
+    "pinCount": 12,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN532.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
