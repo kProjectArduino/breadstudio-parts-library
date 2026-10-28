@@ -322,5 +322,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano",
+    "pinCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985053807",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
