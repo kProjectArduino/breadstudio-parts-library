@@ -151,5 +151,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uB124\uC624\uD53D\uC140 WS2812 8LED",
+    "pinCount": 8,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB124\uC624\uD53D\uC140 WS2812 8LED.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12524045595",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
