@@ -43,5 +43,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "ESP32 S3 CAM",
+    "pinCount": 40,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13756998242",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
