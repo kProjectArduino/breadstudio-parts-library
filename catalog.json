@@ -1,14 +1,5 @@
 [
   {
-    "name": "\uAE30\uC555\uC13C\uC11C BMP280",
-    "pinCount": 6,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAE30\uC555\uC13C\uC11C BMP280.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824640913",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uB124\uC624\uD53D\uC140 WS2812 8LED",
     "pinCount": 8,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB124\uC624\uD53D\uC140 WS2812 8LED.zip",
@@ -445,6 +436,15 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V).zip",
     "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uAE30\uC555\uC13C\uC11C BMP280",
+    "pinCount": 6,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAE30\uC555\uC13C\uC11C BMP280.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824640913",
     "tags": [
       "UserUpload"
     ]
