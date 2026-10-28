@@ -214,5 +214,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "\uBBF8\uB2C8 \uC790\uB3D9\uCC28 \uC81C\uC5B4 \uBCF4\uB4DC ESP32 C3 SUPERMINI 4 MOTOR",
+    "pinCount": 26,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBBF8\uB2C8 \uC790\uB3D9\uCC28 \uC81C\uC5B4 \uBCF4\uB4DC ESP32 C3 SUPERMINI 4 MOTOR.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
