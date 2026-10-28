@@ -1,14 +1,5 @@
 [
   {
-    "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
-    "pinCount": 8,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC790\uC774\uB85C \uC13C\uC11C MPU6050.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985087647",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uC804\uAD11\uD310 \uB9E4\uD2B8\uB9AD\uC2A4 HUB75 MATRIX",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAD11\uD310 \uB9E4\uD2B8\uB9AD\uC2A4 HUB75 MATRIX.zip",
@@ -445,6 +436,15 @@
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523816019",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
+    "pinCount": 8,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC790\uC774\uB85C \uC13C\uC11C MPU6050.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985087647",
     "tags": [
       "UserUpload"
     ]
