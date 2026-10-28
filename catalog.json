@@ -1,14 +1,5 @@
 [
   {
-    "name": "220V \uC804\uAD6C electric light",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/220V \uC804\uAD6C electric light.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "ESP32 38\uD540",
     "pinCount": 38,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 38\uD540.zip",
@@ -444,6 +435,15 @@
     "name": "\uCEEC\uB7EC\uC13C\uC11C TCS34725",
     "pinCount": 7,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCEEC\uB7EC\uC13C\uC11C TCS34725.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "220V \uC804\uAD6C electric light",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/220V \uC804\uAD6C electric light.zip",
     "purchaseUrl": "",
     "tags": [
       "UserUpload"
