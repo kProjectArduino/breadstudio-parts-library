@@ -1,14 +1,5 @@
 [
   {
-    "name": "\uC11C\uBCF4\uBAA8\uD130 MG995",
-    "pinCount": 3,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC11C\uBCF4\uBAA8\uD130 MG995.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13291701108",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uC2A4\uD15D\uBAA8\uD130 NEMA17",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC2A4\uD15D\uBAA8\uD130 NEMA17.zip",
@@ -445,6 +436,15 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE57\uBB3C\uAC10\uC9C0 \uC13C\uC11C FC-37.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523863294",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uC11C\uBCF4\uBAA8\uD130 MG995",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC11C\uBCF4\uBAA8\uD130 MG995.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13291701108",
     "tags": [
       "UserUpload"
     ]
