@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uBAA8\uD130 N20",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130 N20.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988.zip",
@@ -454,6 +445,15 @@
     "pinCount": 6,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9B4\uB808\uC774 relay.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12986695659",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uBAA8\uD130 N20",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130 N20.zip",
+    "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
