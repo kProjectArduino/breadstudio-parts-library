@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uCDA9\uBC29\uC804 \uBAA8\uB4C8",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCDA9\uBC29\uC804 \uBAA8\uB4C8.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uCEEC\uB7EC\uC13C\uC11C TCS34725",
     "pinCount": 7,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCEEC\uB7EC\uC13C\uC11C TCS34725.zip",
@@ -454,6 +445,15 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCD08\uC74C\uD30C\uC13C\uC11C HC-SR04.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12619244227",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uCDA9\uBC29\uC804 \uBAA8\uB4C8",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCDA9\uBC29\uC804 \uBAA8\uB4C8.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837689456",
     "tags": [
       "UserUpload"
     ]
