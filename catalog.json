@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uB9AC\uB4D0\uBC30\uD130\uB9AC",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9AC\uB4D0\uBC30\uD130\uB9AC.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uB9AC\uBBF8\uD2B8\uC2A4\uC704\uCE58 - ENDSTOP LIMIT SWITCH RAMPS 1.4",
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9AC\uBBF8\uD2B8\uC2A4\uC704\uCE58 - ENDSTOP LIMIT SWITCH RAMPS 1.4.zip",
@@ -454,6 +445,15 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB124\uC624\uD53D\uC140 \uB9C1 WS2812 RING.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837676824",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uB9AC\uB4D0\uBC30\uD130\uB9AC",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9AC\uB4D0\uBC30\uD130\uB9AC.zip",
+    "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
