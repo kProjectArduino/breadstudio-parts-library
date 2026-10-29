@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uC804\uB958\uC13C\uC11C SCT013",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C SCT013.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uC804\uC555\uC13C\uC11C ZMPT101B",
     "pinCount": 6,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uC555\uC13C\uC11C ZMPT101B.zip",
@@ -453,6 +444,15 @@
     "name": "\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uC804\uB958\uC13C\uC11C SCT013",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C SCT013.zip",
     "purchaseUrl": "",
     "tags": [
       "UserUpload"
