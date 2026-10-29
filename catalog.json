@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uC544\uB450\uC774\uB178 \uC6B0\uB178",
-    "pinCount": 32,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC544\uB450\uC774\uB178 \uC6B0\uB178.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224650977",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C AM2315C",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC628\uC2B5\uB3C4 \uC13C\uC11C AM2315C.zip",
@@ -454,6 +445,15 @@
     "pinCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985053807",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uC544\uB450\uC774\uB178 \uC6B0\uB178",
+    "pinCount": 32,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC544\uB450\uC774\uB178 \uC6B0\uB178.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224650977",
     "tags": [
       "UserUpload"
     ]
