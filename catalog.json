@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAC00\uC2A4\uC13C\uC11C MQ-2.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985108797",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA).zip",
@@ -454,6 +445,15 @@
     "pinCount": 0,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357.zip",
     "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAC00\uC2A4\uC13C\uC11C MQ-2.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985108797",
     "tags": [
       "UserUpload"
     ]
