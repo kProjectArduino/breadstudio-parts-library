@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357",
-    "pinCount": 0,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13828533019",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAC00\uC2A4\uC13C\uC11C MQ-2.zip",
@@ -454,6 +445,15 @@
     "pinCount": 7,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/OLED SPI.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837667702",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357.zip",
+    "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
