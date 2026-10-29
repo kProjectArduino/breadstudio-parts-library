@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "NFC\uBAA8\uB4C8 PN5180",
-    "pinCount": 13,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN5180.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837661833",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "NFC\uBAA8\uB4C8 PN532",
     "pinCount": 12,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN532.zip",
@@ -454,6 +445,15 @@
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MP3\uBAA8\uB4C8 DFPLAYERMINI.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625266580",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "NFC\uBAA8\uB4C8 PN5180",
+    "pinCount": 13,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN5180.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837661833",
     "tags": [
       "UserUpload"
     ]
