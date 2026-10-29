@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11463785928",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06(\uC2AC\uB808\uC774\uBE0C\uBAA8\uB4C8)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06(\uC2AC\uB808\uC774\uBE0C\uBAA8\uB4C8).zip",
@@ -454,6 +445,15 @@
     "pinCount": 830,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE0C\uB808\uB4DC\uBCF4\uB4DC 830\uD540.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11610883789",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11463785928",
     "tags": [
       "UserUpload"
     ]
