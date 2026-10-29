@@ -9,15 +9,6 @@
     ]
   },
   {
-    "name": "\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "name": "\uC804\uB958\uC13C\uC11C SCT013",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C SCT013.zip",
@@ -454,6 +445,15 @@
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAD11\uD310 \uB9E4\uD2B8\uB9AD\uC2A4 HUB75 MATRIX.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398794029",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "name": "\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug.zip",
+    "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
