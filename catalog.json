@@ -466,5 +466,14 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "name": "18650 \uBC30\uD130\uB9AC 4\uC140",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650 \uBC30\uD130\uB9AC 4\uC140.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226756628",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
