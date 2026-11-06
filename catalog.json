@@ -198,5 +198,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "ds18b20",
+    "name": "\uC628\uB3C4\uC13C\uC11C DS18B20",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ds18b20.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523759729",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
