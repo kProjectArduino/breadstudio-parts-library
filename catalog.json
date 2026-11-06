@@ -638,5 +638,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "24v_dc_converter",
+    "name": "24V \uC544\uB2F5\uD130",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/24v_dc_converter.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12335061614",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
