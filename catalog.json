@@ -558,5 +558,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "USB_cable_TYPE-C",
+    "name": "USB \uCF00\uC774\uBE14 TYPE-C",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/USB_cable_TYPE-C.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12309492103",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
