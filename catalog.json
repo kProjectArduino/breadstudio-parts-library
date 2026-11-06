@@ -258,5 +258,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "ESP32_38pin",
+    "name": "ESP32 38\uD540",
+    "pinCount": 38,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32_38pin.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398748583",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
