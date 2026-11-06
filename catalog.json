@@ -1,5 +1,6 @@
 [
   {
+    "id": "",
     "name": "ESP32 C3 SUPERMINI PINOUT(\uCC38\uC870\uC694)",
     "pinCount": 0,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 C3 SUPERMINI PINOUT(\uCC38\uC870\uC694).zip",
@@ -9,6 +10,7 @@
     ]
   },
   {
+    "id": "",
     "name": "220V \uC804\uAD6C electric light",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/220V \uC804\uAD6C electric light.zip",
@@ -18,6 +20,7 @@
     ]
   },
   {
+    "id": "",
     "name": "ESP32 38\uD540",
     "pinCount": 38,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 38\uD540.zip",
@@ -27,6 +30,7 @@
     ]
   },
   {
+    "id": "",
     "name": "ESP32 LCD SD",
     "pinCount": 0,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 LCD SD.zip",
@@ -36,6 +40,7 @@
     ]
   },
   {
+    "id": "",
     "name": "ESP32 S3 CAM",
     "pinCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
@@ -45,6 +50,7 @@
     ]
   },
   {
+    "id": "",
     "name": "MCU RP2040 ZERO",
     "pinCount": 23,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU RP2040 ZERO.zip",
@@ -54,6 +60,7 @@
     ]
   },
   {
+    "id": "",
     "name": "MCU STM32F103C8T6",
     "pinCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MCU STM32F103C8T6.zip",
@@ -63,6 +70,7 @@
     ]
   },
   {
+    "id": "",
     "name": "MP3\uBAA8\uB4C8 DFPLAYERMINI",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MP3\uBAA8\uB4C8 DFPLAYERMINI.zip",
@@ -72,6 +80,7 @@
     ]
   },
   {
+    "id": "",
     "name": "NFC\uBAA8\uB4C8 PN5180",
     "pinCount": 13,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN5180.zip",
@@ -81,6 +90,7 @@
     ]
   },
   {
+    "id": "",
     "name": "NFC\uBAA8\uB4C8 PN532",
     "pinCount": 12,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC\uBAA8\uB4C8 PN532.zip",
@@ -90,6 +100,7 @@
     ]
   },
   {
+    "id": "",
     "name": "OLED SPI",
     "pinCount": 7,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/OLED SPI.zip",
@@ -99,6 +110,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAC00\uC2A4\uC13C\uC11C MQ-2.zip",
@@ -108,6 +120,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA).zip",
@@ -117,6 +130,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V).zip",
@@ -126,6 +140,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uAE30\uC555\uC13C\uC11C BMP280",
     "pinCount": 6,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uAE30\uC555\uC13C\uC11C BMP280.zip",
@@ -135,6 +150,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uB124\uC624\uD53D\uC140 WS2812 8LED",
     "pinCount": 8,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB124\uC624\uD53D\uC140 WS2812 8LED.zip",
@@ -144,6 +160,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uB124\uC624\uD53D\uC140 \uB9C1 WS2812 RING",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB124\uC624\uD53D\uC140 \uB9C1 WS2812 RING.zip",
@@ -153,6 +170,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uB9AC\uB4D0\uBC30\uD130\uB9AC",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9AC\uB4D0\uBC30\uD130\uB9AC.zip",
@@ -162,6 +180,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uB9AC\uBBF8\uD2B8\uC2A4\uC704\uCE58 - ENDSTOP LIMIT SWITCH RAMPS 1.4",
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9AC\uBBF8\uD2B8\uC2A4\uC704\uCE58 - ENDSTOP LIMIT SWITCH RAMPS 1.4.zip",
@@ -171,6 +190,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uB9B4\uB808\uC774 relay",
     "pinCount": 6,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9B4\uB808\uC774 relay.zip",
@@ -180,6 +200,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBAA8\uD130 N20",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130 N20.zip",
@@ -189,6 +210,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988.zip",
@@ -198,6 +220,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBBF8\uB2C8 \uC790\uB3D9\uCC28 \uC81C\uC5B4 \uBCF4\uB4DC ESP32 C3 SUPERMINI 4 MOTOR",
     "pinCount": 26,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBBF8\uB2C8 \uC790\uB3D9\uCC28 \uC81C\uC5B4 \uBCF4\uB4DC ESP32 C3 SUPERMINI 4 MOTOR.zip",
@@ -207,6 +230,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBBF8\uC138\uBA3C\uC9C0 \uC13C\uC11C PMS7003",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBBF8\uC138\uBA3C\uC9C0 \uC13C\uC11C PMS7003.zip",
@@ -216,6 +240,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBC30\uB7F4\uC7AD BARREL JACK",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBC30\uB7F4\uC7AD BARREL JACK.zip",
@@ -225,6 +250,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBC84\uD2BC TACT BUTTON",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBC84\uD2BC TACT BUTTON.zip",
@@ -234,6 +260,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBE0C\uB808\uB4DC\uBCF4\uB4DC 170\uD540",
     "pinCount": 170,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE0C\uB808\uB4DC\uBCF4\uB4DC 170\uD540.zip",
@@ -243,6 +270,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBE0C\uB808\uB4DC\uBCF4\uB4DC 400\uD540",
     "pinCount": 400,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE0C\uB808\uB4DC\uBCF4\uB4DC 400\uD540.zip",
@@ -252,6 +280,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBE0C\uB808\uB4DC\uBCF4\uB4DC 830\uD540",
     "pinCount": 830,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE0C\uB808\uB4DC\uBCF4\uB4DC 830\uD540.zip",
@@ -261,6 +290,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06.zip",
@@ -270,6 +300,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06(\uC2AC\uB808\uC774\uBE0C\uBAA8\uB4C8)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE14\uB8E8\uD22C\uC2A4 \uBAA8\uB4C8 HC-06(\uC2AC\uB808\uC774\uBE0C\uBAA8\uB4C8).zip",
@@ -279,6 +310,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBE57\uBB3C\uAC10\uC9C0 \uC13C\uC11C FC-37",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBE57\uBB3C\uAC10\uC9C0 \uC13C\uC11C FC-37.zip",
@@ -288,6 +320,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC11C\uBCF4\uBAA8\uD130 MG995",
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC11C\uBCF4\uBAA8\uD130 MG995.zip",
@@ -297,6 +330,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC2A4\uD15D\uBAA8\uD130 NEMA17",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC2A4\uD15D\uBAA8\uD130 NEMA17.zip",
@@ -306,6 +340,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC2A4\uD53C\uCEE4 SPEAKER 3W",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC2A4\uD53C\uCEE4 SPEAKER 3W.zip",
@@ -315,6 +350,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano",
     "pinCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano.zip",
@@ -324,6 +360,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC544\uB450\uC774\uB178 \uC6B0\uB178",
     "pinCount": 32,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC544\uB450\uC774\uB178 \uC6B0\uB178.zip",
@@ -333,6 +370,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C AM2315C",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC628\uC2B5\uB3C4 \uC13C\uC11C AM2315C.zip",
@@ -342,6 +380,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11",
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11.zip",
@@ -351,6 +390,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
     "pinCount": 8,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC790\uC774\uB85C \uC13C\uC11C MPU6050.zip",
@@ -360,6 +400,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC804\uAD11\uD310 \uB9E4\uD2B8\uB9AD\uC2A4 HUB75 MATRIX",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAD11\uD310 \uB9E4\uD2B8\uB9AD\uC2A4 HUB75 MATRIX.zip",
@@ -369,6 +410,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uAE30 \uCF54\uB4DC \uD50C\uB7EC\uADF8 electric cord plug.zip",
@@ -378,6 +420,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC804\uB958\uC13C\uC11C SCT013",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C SCT013.zip",
@@ -387,6 +430,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC870\uB3C4\uC13C\uC11C CDS",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC870\uB3C4\uC13C\uC11C CDS.zip",
@@ -396,6 +440,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uCD08\uC74C\uD30C\uC13C\uC11C HC-SR04",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCD08\uC74C\uD30C\uC13C\uC11C HC-SR04.zip",
@@ -405,6 +450,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uCEEC\uB7EC\uC13C\uC11C TCS34725",
     "pinCount": 7,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCEEC\uB7EC\uC13C\uC11C TCS34725.zip",
@@ -414,6 +460,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uCDA9\uBC29\uC804 \uBAA8\uB4C8",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uCDA9\uBC29\uC804 \uBAA8\uB4C8.zip",
@@ -423,6 +470,7 @@
     ]
   },
   {
+    "id": "",
     "name": "ESP32 C3 SUPERMINI",
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 C3 SUPERMINI.zip",
@@ -432,6 +480,7 @@
     ]
   },
   {
+    "id": "",
     "name": "PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357",
     "pinCount": 0,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357.zip",
@@ -441,6 +490,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC9C4\uB3D9 \uBAA8\uD130 \uBAA8\uB4C8",
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC9C4\uB3D9 \uBAA8\uD130 \uBAA8\uB4C8.zip",
@@ -450,6 +500,7 @@
     ]
   },
   {
+    "id": "",
     "name": "18650 \uBC30\uD130\uB9AC 4\uC140",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650 \uBC30\uD130\uB9AC 4\uC140.zip",
@@ -459,6 +510,7 @@
     ]
   },
   {
+    "id": "",
     "name": "18650 \uBC30\uD130\uB9AC 3\uC140",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650 \uBC30\uD130\uB9AC 3\uC140.zip",
@@ -468,6 +520,7 @@
     ]
   },
   {
+    "id": "",
     "name": "18650 \uBC30\uD130\uB9AC 2\uC140",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650 \uBC30\uD130\uB9AC 2\uC140.zip",
@@ -477,6 +530,7 @@
     ]
   },
   {
+    "id": "",
     "name": "18650 \uBC30\uD130\uB9AC 1\uC140",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650 \uBC30\uD130\uB9AC 1\uC140.zip",
@@ -486,6 +540,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uB2A5\uB3D9\uBD80\uC800(BUZZER)",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB2A5\uB3D9\uBD80\uC800(BUZZER).zip",
@@ -495,6 +550,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC218\uB3D9\uBD80\uC800(BUZZER)",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC218\uB3D9\uBD80\uC800(BUZZER).zip",
@@ -504,6 +560,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uBCF4\uC870\uBC30\uD130\uB9AC USB BATTERY",
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uBCF4\uC870\uBC30\uD130\uB9AC USB BATTERY.zip",
@@ -513,6 +570,7 @@
     ]
   },
   {
+    "id": "",
     "name": "USB \uCF00\uC774\uBE14 TYPE-C",
     "pinCount": 0,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/USB \uCF00\uC774\uBE14 TYPE-C.zip",
@@ -522,6 +580,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC804\uB958\uC13C\uC11C ACS712",
     "pinCount": 5,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C ACS712.zip",
@@ -531,6 +590,7 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC804\uB958\uC13C\uC11C ACS712 (TYPE2)",
     "pinCount": 5,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C ACS712 (TYPE2).zip",
@@ -540,10 +600,21 @@
     ]
   },
   {
+    "id": "",
     "name": "\uC804\uC555\uC13C\uC11C ZMPT101B",
     "pinCount": 6,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uC555\uC13C\uC11C ZMPT101B.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13772620654",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "18650 \uBC30\uD130\uB9AC 1\uC140",
+    "name": "18650 \uBC30\uD130\uB9AC 1\uC140",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650 \uBC30\uD130\uB9AC 1\uC140.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13756989461",
     "tags": [
       "UserUpload"
     ]
