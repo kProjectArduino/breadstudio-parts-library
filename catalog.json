@@ -1588,5 +1588,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "NFC_PN532",
+    "name": "NFC\uBAA8\uB4C8 PN532",
+    "pinCount": 12,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC_PN532.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837663700",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
