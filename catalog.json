@@ -1200,16 +1200,6 @@
     ]
   },
   {
-    "id": "18650_4cell",
-    "name": "18650 \uBC30\uD130\uB9AC 4\uC140",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650_4cell.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226756628",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "A4988",
     "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
     "pinCount": 16,
@@ -1445,6 +1435,16 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650_3cell.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398658406",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "18650_4cell",
+    "name": "18650 \uBC30\uD130\uB9AC 4\uC140",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650_4cell.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226756628",
     "tags": [
       "UserUpload"
     ]
