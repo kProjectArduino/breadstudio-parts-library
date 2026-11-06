@@ -1668,5 +1668,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "SCT013",
+    "name": "\uC804\uB958\uC13C\uC11C SCT013",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
