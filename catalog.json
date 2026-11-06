@@ -468,5 +468,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "rp2040_zero",
+    "name": "MCU RP2040 ZERO",
+    "pinCount": 23,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/rp2040_zero.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824627135",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
