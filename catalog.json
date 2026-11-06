@@ -1728,5 +1728,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "TCS34725",
+    "name": "\uCEEC\uB7EC\uC13C\uC11C TCS34725",
+    "pinCount": 7,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/TCS34725.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837690641",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
