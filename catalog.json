@@ -848,5 +848,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "\uB9AC\uB4D0\uBC30\uD130\uB9AC",
+    "name": "\uB9AC\uB4D0\uBC30\uD130\uB9AC",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB9AC\uB4D0\uBC30\uD130\uB9AC.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
