@@ -1018,5 +1018,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "\uC218\uB3D9\uBD80\uC800(BUZZER)",
+    "name": "\uC218\uB3D9\uBD80\uC800(BUZZER)",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC218\uB3D9\uBD80\uC800(BUZZER).zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13076775823",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
