@@ -548,5 +548,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "USB_BATTERY",
+    "name": "\uBCF4\uC870\uBC30\uD130\uB9AC USB BATTERY",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/USB_BATTERY.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985167534",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
