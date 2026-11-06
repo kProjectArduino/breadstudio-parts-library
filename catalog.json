@@ -1200,16 +1200,6 @@
     ]
   },
   {
-    "id": "dfplayermini_mp3",
-    "name": "MP3\uBAA8\uB4C8 DFPLAYERMINI",
-    "pinCount": 16,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/dfplayermini_mp3.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625266580",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "DHT11",
     "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11",
     "pinCount": 3,
@@ -1445,6 +1435,16 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/charge_discharge_module.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837689456",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "dfplayermini_mp3",
+    "name": "MP3\uBAA8\uB4C8 DFPLAYERMINI",
+    "pinCount": 16,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/dfplayermini_mp3.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625266580",
     "tags": [
       "UserUpload"
     ]
