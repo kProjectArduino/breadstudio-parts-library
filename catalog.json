@@ -1328,5 +1328,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "BARREL_JACK",
+    "name": "\uBC30\uB7F4\uC7AD BARREL JACK",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/BARREL_JACK.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224671815",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
