@@ -1200,16 +1200,6 @@
     ]
   },
   {
-    "id": "arduino_nano",
-    "name": "\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano",
-    "pinCount": 30,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/arduino_nano.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985053807",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "arduino_uno",
     "name": "\uC544\uB450\uC774\uB178 \uC6B0\uB178",
     "pinCount": 32,
@@ -1445,6 +1435,16 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/AM2315C.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824656241",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "arduino_nano",
+    "name": "\uC544\uB450\uC774\uB178 \uB098\uB178 Arduino Nano",
+    "pinCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/arduino_nano.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985053807",
     "tags": [
       "UserUpload"
     ]
