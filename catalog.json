@@ -1598,5 +1598,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "OLED_SPI",
+    "name": "OLED SPI",
+    "pinCount": 7,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/OLED_SPI.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837667702",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
