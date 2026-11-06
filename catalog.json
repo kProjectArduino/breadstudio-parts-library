@@ -1128,5 +1128,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "\uC804\uB958\uC13C\uC11C ACS712 (TYPE2)",
+    "name": "\uC804\uB958\uC13C\uC11C ACS712 (TYPE2)",
+    "pinCount": 5,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uC804\uB958\uC13C\uC11C ACS712 (TYPE2).zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13848879255",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
