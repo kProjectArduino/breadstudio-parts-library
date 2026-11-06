@@ -828,5 +828,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "\uB124\uC624\uD53D\uC140 \uB9C1 WS2812 RING",
+    "name": "\uB124\uC624\uD53D\uC140 \uB9C1 WS2812 RING",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/\uB124\uC624\uD53D\uC140 \uB9C1 WS2812 RING.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837676824",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
