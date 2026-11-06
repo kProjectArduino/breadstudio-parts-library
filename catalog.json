@@ -158,5 +158,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "cds_sensor",
+    "name": "\uC870\uB3C4\uC13C\uC11C CDS",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/cds_sensor.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11610946797",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
