@@ -1200,16 +1200,6 @@
     ]
   },
   {
-    "id": "arduino_uno",
-    "name": "\uC544\uB450\uC774\uB178 \uC6B0\uB178",
-    "pinCount": 32,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/arduino_uno.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224650977",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "BARREL_JACK",
     "name": "\uBC30\uB7F4\uC7AD BARREL JACK",
     "pinCount": 2,
@@ -1445,6 +1435,16 @@
     "pinCount": 30,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/arduino_nano.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985053807",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "arduino_uno",
+    "name": "\uC544\uB450\uC774\uB178 \uC6B0\uB178",
+    "pinCount": 32,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/arduino_uno.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224650977",
     "tags": [
       "UserUpload"
     ]
