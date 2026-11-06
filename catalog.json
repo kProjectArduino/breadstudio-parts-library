@@ -1200,16 +1200,6 @@
     ]
   },
   {
-    "id": "DHT11",
-    "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11",
-    "pinCount": 3,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/DHT11.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523816019",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "electric light_220V",
     "name": "220V \uC804\uAD6C electric light \uBD80\uD558",
     "pinCount": 2,
@@ -1445,6 +1435,16 @@
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/dfplayermini_mp3.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625266580",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "DHT11",
+    "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/DHT11.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523816019",
     "tags": [
       "UserUpload"
     ]
