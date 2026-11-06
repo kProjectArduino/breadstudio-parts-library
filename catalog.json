@@ -680,16 +680,6 @@
     ]
   },
   {
-    "id": "ESP32 LCD SD",
-    "name": "ESP32 LCD SD",
-    "pinCount": 0,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 LCD SD.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13803989532",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "ESP32 S3 CAM",
     "name": "ESP32 S3 CAM",
     "pinCount": 40,
@@ -1445,6 +1435,16 @@
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/endstop_limit_switch.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13808587063",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "ESP32 LCD SD",
+    "name": "ESP32 LCD SD",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 LCD SD.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13803989532",
     "tags": [
       "UserUpload"
     ]
