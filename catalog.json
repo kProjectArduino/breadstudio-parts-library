@@ -1238,5 +1238,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "18650_3cell",
+    "name": "18650 \uBC30\uD130\uB9AC 3\uC140",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650_3cell.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398658406",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
