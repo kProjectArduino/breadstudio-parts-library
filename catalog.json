@@ -648,5 +648,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "L298N",
+    "name": "\uBAA8\uD130 \uB4DC\uB77C\uC774\uBC84 L298N",
+    "pinCount": 13,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/L298N.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523900001",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
