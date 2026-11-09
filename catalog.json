@@ -1,15 +1,5 @@
 [
   {
-    "id": "SPEAKER_3W",
-    "name": "\uC2A4\uD53C\uCEE4 SPEAKER 3W",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SPEAKER_3W.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13808438654",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "STM32F103C8T6",
     "name": "MCU STM32F103C8T6",
     "pinCount": 40,
@@ -675,6 +665,16 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013_10A-1V.zip",
     "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "SPEAKER_3W",
+    "name": "\uC2A4\uD53C\uCEE4 SPEAKER 3W",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SPEAKER_3W.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13808438654",
     "tags": [
       "UserUpload"
     ]
