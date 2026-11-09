@@ -1,15 +1,5 @@
 [
   {
-    "id": "PCB_sound_vib_board",
-    "name": "PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357",
-    "pinCount": 0,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB_sound_vib_board.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13828533019",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "PMS7003",
     "name": "\uBBF8\uC138\uBA3C\uC9C0 \uC13C\uC11C PMS7003",
     "pinCount": 4,
@@ -675,6 +665,16 @@
     "pinCount": 26,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB_ESP32_C3_SUPERMINI_4_MOTOR.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837681258",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "PCB_sound_vib_board",
+    "name": "PCB \uC18C\uC9C4\uBCF4\uB4DC ESP32 C3 INMP441 MPU6050 MAX98357",
+    "pinCount": 0,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PCB_sound_vib_board.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13828533019",
     "tags": [
       "UserUpload"
     ]
