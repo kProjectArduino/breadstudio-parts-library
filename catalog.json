@@ -678,5 +678,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "ESP32 P4 WT9932P4-TINY",
+    "name": "ESP32 P4 WT9932P4-TINY",
+    "pinCount": 54,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 P4 WT9932P4-TINY.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
