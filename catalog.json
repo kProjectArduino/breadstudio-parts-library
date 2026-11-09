@@ -1,15 +1,5 @@
 [
   {
-    "id": "USB_BATTERY",
-    "name": "\uBCF4\uC870\uBC30\uD130\uB9AC USB BATTERY",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/USB_BATTERY.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985167534",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "USB_cable_TYPE-C",
     "name": "USB \uCF00\uC774\uBE14 TYPE-C",
     "pinCount": 0,
@@ -675,6 +665,16 @@
     "pinCount": 7,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/TCS34725.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837690641",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "USB_BATTERY",
+    "name": "\uBCF4\uC870\uBC30\uD130\uB9AC USB BATTERY",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/USB_BATTERY.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985167534",
     "tags": [
       "UserUpload"
     ]
