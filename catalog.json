@@ -668,5 +668,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "cooling_fan_12v_3pin",
+    "name": "\uCFE8\uB9C1\uD32C Cooling Fan 3\uD540 \uCEE4\uB125\uD130 12V",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/cooling_fan_12v_3pin.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13862722438",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
