@@ -1,15 +1,5 @@
 [
   {
-    "id": "A4988",
-    "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
-    "pinCount": 16,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/A4988.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224667484",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "ACS712(TYPE1)",
     "name": "\uC804\uB958\uC13C\uC11C ACS712",
     "pinCount": 5,
@@ -675,6 +665,16 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/24v_dc_converter.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12335061614",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "A4988",
+    "name": "\uBAA8\uD130\uB4DC\uB77C\uC774\uBC84 A4988",
+    "pinCount": 16,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/A4988.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12224667484",
     "tags": [
       "UserUpload"
     ]
