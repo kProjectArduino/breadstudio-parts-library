@@ -470,16 +470,6 @@
     ]
   },
   {
-    "id": "breadboard_400",
-    "name": "\uBE0C\uB808\uB4DC\uBCF4\uB4DC 400\uD540",
-    "pinCount": 400,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/breadboard_400.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13359918348",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "breadboard_830",
     "name": "\uBE0C\uB808\uB4DC\uBCF4\uB4DC 830\uD540",
     "pinCount": 830,
@@ -675,6 +665,16 @@
     "pinCount": 170,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/breadboard_170.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985060532",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "breadboard_400",
+    "name": "\uBE0C\uB808\uB4DC\uBCF4\uB4DC 400\uD540",
+    "pinCount": 400,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/breadboard_400.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13359918348",
     "tags": [
       "UserUpload"
     ]
