@@ -1,15 +1,5 @@
 [
   {
-    "id": "dfplayermini_mp3",
-    "name": "MP3\uBAA8\uB4C8 DFPLAYERMINI",
-    "pinCount": 16,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/dfplayermini_mp3.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625266580",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "DHT11",
     "name": "\uC628\uC2B5\uB3C4 \uC13C\uC11C DHT11",
     "pinCount": 3,
@@ -675,6 +665,16 @@
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/cooling_fan_12v_3pin.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13862722438",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "dfplayermini_mp3",
+    "name": "MP3\uBAA8\uB4C8 DFPLAYERMINI",
+    "pinCount": 16,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/dfplayermini_mp3.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625266580",
     "tags": [
       "UserUpload"
     ]
