@@ -1,15 +1,5 @@
 [
   {
-    "id": "charge_discharge_module",
-    "name": "\uCDA9\uBC29\uC804 \uBAA8\uB4C8",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/charge_discharge_module.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837689456",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "dfplayermini_mp3",
     "name": "MP3\uBAA8\uB4C8 DFPLAYERMINI",
     "pinCount": 16,
@@ -675,6 +665,16 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/cds_sensor.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11610946797",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "charge_discharge_module",
+    "name": "\uCDA9\uBC29\uC804 \uBAA8\uB4C8",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/charge_discharge_module.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837689456",
     "tags": [
       "UserUpload"
     ]
