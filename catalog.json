@@ -1,15 +1,5 @@
 [
   {
-    "id": "relay",
-    "name": "\uB9B4\uB808\uC774 relay",
-    "pinCount": 6,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/relay.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12986695659",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "rp2040_zero",
     "name": "MCU RP2040 ZERO",
     "pinCount": 23,
@@ -675,6 +665,16 @@
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/PMS7003.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13076235930",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "relay",
+    "name": "\uB9B4\uB808\uC774 relay",
+    "pinCount": 6,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/relay.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12986695659",
     "tags": [
       "UserUpload"
     ]
