@@ -190,16 +190,6 @@
     ]
   },
   {
-    "id": "oled_i2c",
-    "name": "OLED I2C 0.96\uC778\uCE58",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/oled_i2c.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226802051",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "5v_dc_converter",
     "name": "5V \uC544\uB2F5\uD130",
     "pinCount": 2,
@@ -675,6 +665,16 @@
     "pinCount": 12,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/NFC_PN532.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13837663700",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "oled_i2c",
+    "name": "OLED I2C 0.96\uC778\uCE58",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/oled_i2c.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226802051",
     "tags": [
       "UserUpload"
     ]
