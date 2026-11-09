@@ -1,15 +1,5 @@
 [
   {
-    "id": "MPU6050",
-    "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
-    "pinCount": 8,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MPU6050.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985087647",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "MQ-2",
     "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
     "pinCount": 4,
@@ -675,6 +665,16 @@
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MG995_servo.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13291701108",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "MPU6050",
+    "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
+    "pinCount": 8,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MPU6050.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985087647",
     "tags": [
       "UserUpload"
     ]
