@@ -540,16 +540,6 @@
     ]
   },
   {
-    "id": "24v_dc_converter",
-    "name": "24V \uC544\uB2F5\uD130",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/24v_dc_converter.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12335061614",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "N20_Motor",
     "name": "\uBAA8\uD130 N20",
     "pinCount": 2,
@@ -675,6 +665,16 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/18650_4cell.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226756628",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "24v_dc_converter",
+    "name": "24V \uC544\uB2F5\uD130",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/24v_dc_converter.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12335061614",
     "tags": [
       "UserUpload"
     ]
