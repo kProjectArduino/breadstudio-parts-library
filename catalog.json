@@ -300,16 +300,6 @@
     ]
   },
   {
-    "id": "FC-37_rain",
-    "name": "\uBE57\uBB3C\uAC10\uC9C0 \uC13C\uC11C FC-37",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/FC-37_rain.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523863294",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "oled_i2c",
     "name": "OLED I2C 0.96\uC778\uCE58",
     "pinCount": 4,
@@ -675,6 +665,16 @@
     "pinCount": 16,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/esp32_c3_supermini.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13034194700",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "FC-37_rain",
+    "name": "\uBE57\uBB3C\uAC10\uC9C0 \uC13C\uC11C FC-37",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/FC-37_rain.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12523863294",
     "tags": [
       "UserUpload"
     ]
