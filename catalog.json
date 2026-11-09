@@ -1,15 +1,5 @@
 [
   {
-    "id": "SCT013_10A-1V",
-    "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V)",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013_10A-1V.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "SPEAKER_3W",
     "name": "\uC2A4\uD53C\uCEE4 SPEAKER 3W",
     "pinCount": 2,
@@ -674,6 +664,16 @@
     "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA)",
     "pinCount": 4,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013_100A-50mA.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "SCT013_10A-1V",
+    "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(10A-1V)",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013_10A-1V.zip",
     "purchaseUrl": "",
     "tags": [
       "UserUpload"
