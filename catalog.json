@@ -1,15 +1,5 @@
 [
   {
-    "id": "STM32F103C8T6",
-    "name": "MCU STM32F103C8T6",
-    "pinCount": 40,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/STM32F103C8T6.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824628984",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "TACT_BUTTON",
     "name": "\uBC84\uD2BC TACT BUTTON",
     "pinCount": 4,
@@ -675,6 +665,16 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SPEAKER_3W.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13808438654",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "STM32F103C8T6",
+    "name": "MCU STM32F103C8T6",
+    "pinCount": 40,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/STM32F103C8T6.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824628984",
     "tags": [
       "UserUpload"
     ]
