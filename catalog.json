@@ -1,15 +1,5 @@
 [
   {
-    "id": "SCT013",
-    "name": "\uC804\uB958\uC13C\uC11C SCT013",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013.zip",
-    "purchaseUrl": "",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "SCT013_100A-50mA",
     "name": "\uAD50\uB958 \uC804\uB958 \uCE21\uC815 \uC13C\uC11C SCT013(100A-50mA)",
     "pinCount": 4,
@@ -675,6 +665,16 @@
     "pinCount": 23,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/rp2040_zero.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824627135",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "SCT013",
+    "name": "\uC804\uB958\uC13C\uC11C SCT013",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/SCT013.zip",
+    "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
