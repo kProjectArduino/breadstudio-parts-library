@@ -1,15 +1,5 @@
 [
   {
-    "id": "ESP32_38pin",
-    "name": "ESP32 38\uD540",
-    "pinCount": 38,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32_38pin.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398748583",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "esp32_c3_supermini",
     "name": "ESP32 C3 SUPERMINI",
     "pinCount": 16,
@@ -675,6 +665,16 @@
     "pinCount": 40,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32 S3 CAM.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13756998242",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "ESP32_38pin",
+    "name": "ESP32 38\uD540",
+    "pinCount": 38,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/ESP32_38pin.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11398748583",
     "tags": [
       "UserUpload"
     ]
