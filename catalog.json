@@ -1,15 +1,5 @@
 [
   {
-    "id": "MG995_servo",
-    "name": "\uC11C\uBCF4\uBAA8\uD130 MG995",
-    "pinCount": 3,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MG995_servo.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13291701108",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "MPU6050",
     "name": "\uC790\uC774\uB85C \uC13C\uC11C MPU6050",
     "pinCount": 8,
@@ -675,6 +665,16 @@
     "pinCount": 2,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/LIPO_BATTERY.zip",
     "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "MG995_servo",
+    "name": "\uC11C\uBCF4\uBAA8\uD130 MG995",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MG995_servo.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13291701108",
     "tags": [
       "UserUpload"
     ]
