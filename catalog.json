@@ -1,15 +1,5 @@
 [
   {
-    "id": "rp2040_zero",
-    "name": "MCU RP2040 ZERO",
-    "pinCount": 23,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/rp2040_zero.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824627135",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "SCT013",
     "name": "\uC804\uB958\uC13C\uC11C SCT013",
     "pinCount": 2,
@@ -675,6 +665,16 @@
     "pinCount": 6,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/relay.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12986695659",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "rp2040_zero",
+    "name": "MCU RP2040 ZERO",
+    "pinCount": 23,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/rp2040_zero.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13824627135",
     "tags": [
       "UserUpload"
     ]
