@@ -1,15 +1,5 @@
 [
   {
-    "id": "MQ-2",
-    "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
-    "pinCount": 4,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MQ-2.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985108797",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "NEMA17",
     "name": "\uC2A4\uD15D\uBAA8\uD130 NEMA17",
     "pinCount": 4,
@@ -675,6 +665,16 @@
     "pinCount": 8,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MPU6050.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985087647",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "MQ-2",
+    "name": "\uAC00\uC2A4\uC13C\uC11C MQ-2",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/MQ-2.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/11985108797",
     "tags": [
       "UserUpload"
     ]
