@@ -580,16 +580,6 @@
     ]
   },
   {
-    "id": "12v_dc_converter",
-    "name": "12V \uC544\uB2F5\uD130",
-    "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/12v_dc_converter.zip",
-    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12335061614",
-    "tags": [
-      "UserUpload"
-    ]
-  },
-  {
     "id": "24v_dc_converter",
     "name": "24V \uC544\uB2F5\uD130",
     "pinCount": 2,
@@ -675,6 +665,16 @@
     "pinCount": 3,
     "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/cooling_fan_12v_3pin.zip",
     "purchaseUrl": "https://smartstore.naver.com/jysoft/products/13862722438",
+    "tags": [
+      "UserUpload"
+    ]
+  },
+  {
+    "id": "12v_dc_converter",
+    "name": "12V \uC544\uB2F5\uD130",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/12v_dc_converter.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12335061614",
     "tags": [
       "UserUpload"
     ]
