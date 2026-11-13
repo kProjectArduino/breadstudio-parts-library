@@ -700,20 +700,20 @@
     ]
   },
   {
-    "id": "speaker_8ohm_29mm",
-    "name": "\uC2A4\uD53C\uCEE4 8\uC634 29mm SPEAKER 8OHM",
+    "id": "battery_AA_2cell",
+    "name": "\uBC30\uD130\uB9AC \uD640\uB354 AA 2\uC140 BATTERY AA 2CELL HOLDER",
     "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/speaker_8ohm_29mm.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/battery_AA_2cell.zip",
     "purchaseUrl": "",
     "tags": [
       "UserUpload"
     ]
   },
   {
-    "id": "battery_AA_2cell",
-    "name": "\uBC30\uD130\uB9AC \uD640\uB354 AA 2\uC140 BATTERY AA 2CELL HOLDER",
+    "id": "speaker_8ohm_29mm",
+    "name": "\uC2A4\uD53C\uCEE4 8\uC634 29mm SPEAKER 8OHM",
     "pinCount": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/battery_AA_2cell.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/speaker_8ohm_29mm.zip",
     "purchaseUrl": "",
     "tags": [
       "UserUpload"
