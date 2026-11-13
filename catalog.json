@@ -698,5 +698,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "speaker_8ohm_29mm",
+    "name": "\uC2A4\uD53C\uCEE4 8\uC634 29mm SPEAKER 8OHM",
+    "pinCount": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/speaker_8ohm_29mm.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
