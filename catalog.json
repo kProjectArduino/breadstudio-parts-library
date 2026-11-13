@@ -688,5 +688,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "to-92 ic",
+    "name": "TO-92 IC",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/to-92 ic.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
