@@ -718,5 +718,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "pir_hc-sr501",
+    "name": "\uC778\uCCB4\uAC10\uC9C0\uC13C\uC11C HC-SR501",
+    "pinCount": 3,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/pir_hc-sr501.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625920913",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
