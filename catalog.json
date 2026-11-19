@@ -758,5 +758,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "clcd_i2c",
+    "name": "CLCD I2C 1602",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/clcd_i2c.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12625947789",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
