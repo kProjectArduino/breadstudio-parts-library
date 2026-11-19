@@ -738,5 +738,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "I2C IP68 Waterproof Ambient Light Sensor",
+    "name": "I2C IP68 Waterproof Ambient Light Sensor",
+    "pinCount": 4,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/I2C IP68 Waterproof Ambient Light Sensor.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
