@@ -748,5 +748,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "tca9548a",
+    "name": "IIC I2C \uBA40\uD2F0 \uD50C\uB809\uC11C TCA9548A PCA9548A",
+    "pinCount": 24,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/tca9548a.zip",
+    "purchaseUrl": "https://smartstore.naver.com/jysoft/products/12226781461",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
