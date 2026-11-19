@@ -728,5 +728,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "sbd-12-nk245-02",
+    "name": "\uC2A4\uD15D\uBAA8\uD130 SBD-12-NK245-02",
+    "pinCount": 6,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/sbd-12-nk245-02.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
