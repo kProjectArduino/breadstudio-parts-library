@@ -768,5 +768,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "1.54_TFT_LCD_ST7789",
+    "name": "1.54\uC778\uCE58 TFT LCD ST7789",
+    "pinCount": 8,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/1.54_TFT_LCD_ST7789.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
