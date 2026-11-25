@@ -778,5 +778,15 @@
     "tags": [
       "UserUpload"
     ]
+  },
+  {
+    "id": "esp8266_1",
+    "name": "ESP8266 DEV BOARD",
+    "pinCount": 30,
+    "downloadUrl": "https://raw.githubusercontent.com/kProjectArduino/breadstudio-parts-library/main/parts/esp8266_1.zip",
+    "purchaseUrl": "",
+    "tags": [
+      "UserUpload"
+    ]
   }
 ]
